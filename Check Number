@@ -1,0 +1,7 @@
+def check_number(num):
+    if num % 2 == 0:
+        print(f"{num} is an even number.")
+    else:
+        print(f"{num} is an odd number.")
+
+VIDEO: https://www.youtube.com/watch?v=M6JDOQ7Rvzs
